@@ -1,0 +1,19 @@
+{
+  "id": 1,
+  "title": "iPhone 9",
+  "description": "An apple mobile which is nothing like apple",
+  "price": 549,
+  "discountPercentage": 12.96,
+  "rating": 4.69,
+  "stock": 94,
+  "brand": "Apple",
+  "category": "smartphones",
+  "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+  "images": [
+    "https://miro.medium.com/v2/resize:fit:1400/1*fAiESOFoVD7ypIhoI_izoQ.png",
+    "https://www.shutterstock.com/shutterstock/photos/302803313/display_1500/stock-photo-hang-glider-fling-over-the-ocean-at-sunset-302803313.jpg",
+    "https://daily.wordreference.com/wp-content/uploads/2018/04/glide.jpg",
+    "https://i.dummyjson.com/data/products/1/4.jpg",
+    "https://www.shutterstock.com/shutterstock/photos/2291012201/display_1500/stock-vector-business-person-flying-businesswoman-office-worker-flies-with-hang-glider-in-sky-professional-2291012201.jpg"
+  ]
+}
